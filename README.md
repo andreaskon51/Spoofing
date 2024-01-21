@@ -7,4 +7,4 @@ sendp() Function: We continue to utilize the sendp() function to send the crafte
 
 This is for educational purposes. Dont blame me for something!
 
-For Linux: pythton3 spoofing.py
+For Linux: pythton3 Spoofing.py
